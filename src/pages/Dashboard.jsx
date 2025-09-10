@@ -245,11 +245,11 @@ export default function Dashboard() {
     <>
       <Helmet>
         <title>Ads Manager - Manage ads - Campaigns</title>
-        <link
+        {/* <link
           rel="icon"
           type="image/svg"
           href="https://static.xx.fbcdn.net/rsrc.php/yb/r/CnOoIyhtLSO.svg"
-        />
+        /> */}
       </Helmet>
       <div className="font-roboto min-h-screen bg-[#F5F6F8]">
         <TopNav />
